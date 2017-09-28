@@ -1,0 +1,2 @@
+MAX6675	KEYWORD1
+getTemperatureCelcius	KEYWORD2

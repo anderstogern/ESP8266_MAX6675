@@ -1,0 +1,16 @@
+{
+  "name": "ESP8266_MAX6675",
+  "keywords": "ESP8266, MAX6675, thermocouple, k-type, sensor, temperature",
+  "description": "A simple library for interfacing with the MAX6675 from an ESP8266 over HSPI",
+  "repository": {
+    "type": "git",
+    "url": "https://tba.com"
+  },
+  "authors": {
+    "name": "Anders S. Tøgern",
+    "url": "https://hoast.dk"
+  },
+  "version": "0.9.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

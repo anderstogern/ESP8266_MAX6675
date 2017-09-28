@@ -4,7 +4,7 @@
   "description": "A simple library for interfacing with the MAX6675 from an ESP8266 over HSPI",
   "repository": {
     "type": "git",
-    "url": "https://tba.com"
+    "url": "https://github.com/anderstogern/ESP8266_MAX6675.git"
   },
   "authors": {
     "name": "Anders S. Tøgern",
